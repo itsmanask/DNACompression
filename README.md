@@ -42,6 +42,6 @@
 
 ## 💡 Tech Stack
 
-- **Programming Language**: Python  
+- **Programming Language**: Java  
 - **Key Concepts**: Data Structures (BST, Probability Intervals), Algorithm Design, Compression Techniques  
 - **Compression Algorithms**: Huffman Encoding, Arithmetic Coding  
